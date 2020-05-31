@@ -1,5 +1,5 @@
 <?php
 //This is my sample PHP file for testing
 
-$a=($b=20)+20;
-echo $a+$b;
+$c=($a=30)+($b=20);
+echo $c;
